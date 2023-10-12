@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #717ff5;
+  color: #85ADDB;
   text-decoration: none;
 }
 
@@ -248,12 +248,12 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #4154f1;
+  color: #85ADDB;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #4154f1;
+  background: #85ADDB;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -263,7 +263,7 @@ section {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #5969f3;
+  background: #85ADDB;
 }
 
 .navbar .dropdown ul {
@@ -300,7 +300,7 @@ section {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #4154f1;
+  color: #85ADDB;
 }
 
 .navbar .dropdown:hover>ul {
@@ -425,7 +425,7 @@ section {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #4154f1;
+  color: #85ADDB;
 }
 
 .navbar-mobile .getstarted,
@@ -460,7 +460,7 @@ section {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #4154f1;
+  color: #85ADDB;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -482,7 +482,8 @@ section {
   margin-top: 60px;
   font-size: 48px;
   font-weight: 700;
-  color: #012970;
+  /* color: #012970; */
+  color: #85ADDB;
 }
 
 .hero h2 {
@@ -498,7 +499,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #4154f1;
+  background: #85ADDB;
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
 }
 
@@ -674,9 +675,10 @@ section {
   
 }
 .counts h2{
-  font-size: 32px;
-  font-weight: 700;
-  /* color: #012970; */
+  font-size: 36px;
+  font-weight: 900;
+  color: #85ADDB;
+  font-family: sans-serif;
   margin-bottom: -25px;
 }
 #boxg{
@@ -723,9 +725,10 @@ section {
   
 }
 .services h2{
-  font-size: 32px;
-  font-weight: 700;
-  /* color: #012970; */
+  font-size: 36px;
+  font-weight: 900;
+  color: #85ADDB;
+  font-family: sans-serif;
 }
 .services .service-box {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
@@ -768,11 +771,11 @@ section {
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border-bottom: 3px solid #EB641C;
 }
 
 .services .service-box.blue .icon {
-  color: #2db6fa;
+  color: #85ADDB;
   background: #dbf3fe;
 }
 
@@ -781,15 +784,16 @@ section {
 }
 
 .services .service-box.blue:hover {
-  background: #2db6fa;
+  /* background: #2db6fa; */
+  background: #85ADDB;
 }
 
 .services .service-box.orange {
-  border-bottom: 3px solid #f68c09;
+  border-bottom: 3px solid #EB641C;
 }
 
 .services .service-box.orange .icon {
-  color: #f68c09;
+  color: #EB641C;
   background: #fde3c4;
 }
 
@@ -798,11 +802,11 @@ section {
 }
 
 .services .service-box.orange:hover {
-  background: #f68c09;
+  background: #85ADDB;
 }
 
 .services .service-box.green {
-  border-bottom: 3px solid #08da4e;
+  border-bottom: 3px solid #EB641C;
 }
 
 .services .service-box.green .icon {
@@ -815,11 +819,11 @@ section {
 }
 
 .services .service-box.green:hover {
-  background: #08da4e;
+  background: #85ADDB;
 }
 
 .services .service-box.red {
-  border-bottom: 3px solid #e9222c;
+  border-bottom: 3px solid #EB641C;
 }
 
 .services .service-box.red .icon {
@@ -832,11 +836,11 @@ section {
 }
 
 .services .service-box.red:hover {
-  background: #e9222c;
+  background: #85ADDB;
 }
 
 .services .service-box.purple {
-  border-bottom: 3px solid #b50edf;
+  border-bottom: 3px solid #EB641C;
 }
 
 .services .service-box.purple .icon {
@@ -849,11 +853,11 @@ section {
 }
 
 .services .service-box.purple:hover {
-  background: #b50edf;
+  background: #85ADDB;
 }
 
 .services .service-box.pink {
-  border-bottom: 3px solid #f51f9c;
+  border-bottom: 3px solid #EB641C;
 }
 
 .services .service-box.pink .icon {
@@ -866,7 +870,7 @@ section {
 }
 
 .services .service-box.pink:hover {
-  background: #f51f9c;
+  background: #85ADDB;
 }
 
 .services .service-box:hover h3,
@@ -883,10 +887,11 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials h2{
-  font-size: 32px;
-  font-weight: 700;
-  /* color: #012970; */
+  font-size: 36px;
+  font-weight: 900;
+  color: #85ADDB;
   margin-top: -60px;
+  font-family: sans-serif;
 }
 .testimonials .testimonial-item {
   box-sizing: content-box;
@@ -981,10 +986,11 @@ section {
   padding: 60px 0;
 }
 .team h2{
-  font-size: 32px;
-  font-weight: 700;
-  /* color: #012970; */
+  font-size: 36px;
+  font-weight: 900;
+  color: #85ADDB;
   margin-top: -65px;
+  font-family: sans-serif;
 }
 
 .team .member {
@@ -1082,9 +1088,10 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients h2{
-  font-size: 32px;
-  font-weight: 700;
-  /* color: #012970; */
+  font-size: 36px;
+  font-weight: 900;
+  color: #85ADDB;
+  font-family: sans-serif;
   /* margin-top: -10px; */
 }
 .clients .clients-slider .swiper-slide img {
@@ -1182,9 +1189,10 @@ section {
 --------------------------------------------------------------*/
 
 .contact h2{
-  font-size: 32px;
-  font-weight: 700;
-  /* color: #012970; */
+  font-size: 36px;
+  font-weight: 900;
+  color: #85ADDB;
+  font-family: sans-serif;
   margin-bottom: -25px;
 }
 .contact .info-box {
@@ -1192,17 +1200,20 @@ section {
   background: #fafbff;
   /* padding: 30px; */
   padding-top: 15px;
-  text-align: center;
-
+  /* text-align: center; */
+  min-height: 270px; 
+ 
 }
-#info-box{
-  min-height: 225px; /* Réglez la hauteur minimale selon vos besoins */
+#contact{
+  /* min-width: 1100px; */
+  /* justify-content: center; */
+  /* margin: auto; */
 }
 
 .contact .info-box i {
   font-size: 38px;
   line-height: 0;
-  color: #4154f1;
+  color: #85ADDB;
 }
 
 .contact .info-box h3 {
@@ -1913,7 +1924,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #85ADDB;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
